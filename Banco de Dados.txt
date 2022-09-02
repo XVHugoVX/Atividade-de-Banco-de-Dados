@@ -1,0 +1,15 @@
+[Atividade Valendo 1 PONTO]
+______________________________________
+- criar modelo mer (conceitual) (0,25)
+- criar modelo lógico (0,25)
+- caderno (0,25)
+- brmodelo (0,25)
+- Total 1 ponto
+______________________________________
+
+#PROBLEMATIZAÇÃO
+- uma empresa necessita criar um sistema de recados
+ para motivar os colaboradores nas suas atividades,
+ nisso é necessário que tenha um sistema de login e senha,
+ onde cada usuário pode ter mais de um nível de acesso (ADM, COLABORADOR)
+e os recados podem ser publicados pelos usuários, o recado contém: assunto e descrição.
